@@ -1,8 +1,3 @@
-Al hacer esto, ya tendremos nuestro primer repositorio
-GitHub. Lo que sigue ahora es crear un nuevo archivo json. Para ello, tendremos
-que seleccionar la opción creating a new file, como se muestra en la imagen.
-Ahora, tendremos que ponerle un nombre a nuestro archivo. Para este ejemplo, lo
-llamaremos visitas.json
 [
 { "pais": "EEUU", "visitas": 23725 },
 { "pais": "China", "visitas": 1882 },
